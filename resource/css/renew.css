@@ -1,0 +1,127 @@
+.login_mar {
+    margin-top: 5px;
+}
+
+.login_suit {
+    margin: 50px;
+}
+
+/*
+.form_right{
+    width:60%;
+    height:100%;
+    display: inline;
+    float: left;
+}
+.form_left{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+*/
+.btn_extra {
+    float: right;
+    margin-right: 15px;
+    margin-bottom: -15px;
+}
+
+td.btn_right {
+    float: right;
+    margin-right: 18%;
+}
+
+td.btn_left {
+    float: left;
+}
+
+input.passage_headline {
+    width: 350px;
+    height: 30px;
+}
+
+.entry_bg {
+    background-image: url("../img/component/bg.jpg");
+}
+
+.editor_box {
+    width: 80%;
+    height: 350px;
+}
+
+input.label_adjust {
+    margin-top: -5px;
+}
+
+.content_limit {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.content_limit img {
+    width: 150px;
+    height: 100px;
+}
+
+#btn_delete a {
+    color: white;
+    text-decoration: none;
+}
+
+form.limit_form {
+    margin-top: -20px;
+}
+
+.limit_select {
+    width: 20%;
+    margin-left: 0;
+    margin-right: 10px;
+    padding-left: 0;
+    display: inline;
+    float: left;
+}
+
+.limit_btn {
+    width: 8.5%;
+    float: right;
+    display: inline;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.list_table {
+    margin-top: 15px;
+    padding-top: 0;
+}
+
+.category_btn {
+    float: right;
+    display: inline;
+    margin-top: 10px;
+}
+
+.category_input {
+    width: 75%;
+}
+
+.category_align {
+    text-align: left;
+}
+
+div.select_left {
+    padding-left: 0;
+    min-height: 0;
+}
+
+select.limit_select_create {
+    width: 30%;
+    margin-right: 10px;
+    float: left;
+    display: inline;
+}
+
+.limit_area {
+    resize: none;
+}
+.select_mar{
+    margin:10px;
+}
